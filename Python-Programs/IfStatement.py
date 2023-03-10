@@ -1,5 +1,5 @@
-ismale = False
-istall = False
+ismale = True
+istall = True
 if ismale and istall:
     print("You are a tall male")
 elif ismale and not(istall):
