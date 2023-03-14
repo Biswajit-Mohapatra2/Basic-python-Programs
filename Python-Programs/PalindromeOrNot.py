@@ -1,4 +1,3 @@
-#Program Number: 04
 # Check a Number Is Palindrome or not
 
 num = int(input("Enter Your Number: "))
