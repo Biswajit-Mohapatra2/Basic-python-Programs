@@ -1,6 +1,6 @@
 from math import *
 mynum = 6
-print(str(mynum) + " Is My Lucky Number")
+print(mynum, " Is My Lucky Number")
 print(abs(mynum))
 print(pow(2, 10))
 print(max(10, 100))
